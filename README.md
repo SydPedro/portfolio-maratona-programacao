@@ -59,4 +59,12 @@
 
 ### Mobile
 
-[Clique aqui para ver](./img/mobile.png)
+[Clique aqui para ver](./assets/img/mobile.png)
+
+### Tablet
+
+[Clique aqui para ver](./assets/img/tablet.png)
+
+### Desktop
+
+[Clique aqui para ver](./assets/img/desktop.png)
